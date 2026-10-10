@@ -5,7 +5,7 @@ The problem in the project was about a virtual company called NorthStar Medical 
 
 
 ## Solution Overview
-The Solution was to build a basic employees onboarding pipeline in Active Directory. A RBAC Metrix was put in place to ensure users were given access only base on their role. Also, I simulated a ticket where a user was granted access to the wrong resources. 
+The Solution was to build a basic employees onboarding pipeline in Active Directory. A RBAC Metrix was put in place to ensure users were given access only base on their role. Also, I simulated a ticket where a user was granted access to the wrong resources and i fixed the issues. 
 
 
 ## Video Walkthrough
