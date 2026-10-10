@@ -9,7 +9,7 @@ The Solution was to build a basic employees onboarding pipeline in Active Direct
 
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+https://www.loom.com/share/faf0e5879eee425ea792140ac092bfff
 
 ## Tools Used
 * Windows Server
