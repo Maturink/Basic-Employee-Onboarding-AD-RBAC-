@@ -1,7 +1,7 @@
 # Basic Employee Onboarding (AD)(RBAC)
 
 ## Problem Statement
-The problem in the project was about a virtual company called NorthStar Medical Group, who delegated its identity and access management to a third party called MSP. As the company was growing, lots of issues start appearing as the company has no RBAC policy in place. User were assigned discretionary access, there was no audit trails and the company was at risk with HIPAA regulation.
+The problem in the project was about a virtual company called NorthStar Medical Group, who delegated its identity and access management to a third party called MSP. As the company was growing, lots of issues start appearing as the company had no RBAC policy in place. User were assigned discretionary access, there was no audit trails and the company was at risk with HIPAA regulation.
 
 
 ## Solution Overview
