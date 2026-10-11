@@ -27,6 +27,6 @@ https://www.loom.com/share/faf0e5879eee425ea792140ac092bfff
 * Day 5: Documentation and case study packaging
 
 ## Key Accomplishments
-* Built NMG.com domain from scratch
-* [Add your second key accomplishment here]
-* [Add your third key accomplishment here]
+* Built NMG.com domain from scASAP.
+* Build a RBAC Metrix implementing Least privilege principle
+* Simulated and resolved a live access issue 
